@@ -1,4 +1,4 @@
-# Games using Recursive Algorithm 
+# Game using Recursive Algorithm 
 
 Paijo, a gardener in a rich family, found a chest buried in the backyard. Out of curiosity, Paijo decided to open the chest and found it contained of treasure maps. The treasure map shows the location of an ancient artifact inside a dungeon. Confidently, Paijo decided to take time off to hunt for treasure with his son, Paiman.
 
