@@ -4,7 +4,7 @@ Paijo, a gardener in a rich family, found a chest buried in the backyard. Out of
 
 But unfortunately when examined further, not all dungeons have a way to the exit. Therefore, they need to determine WHICH DUNGEONS THEY SHOULD VISIT TO GET THE LARGEST NUMBER OF ARTIFACTS AND MOST IMPORTANTLY, THEY SHOULD BE ABLE TO GET OUT SAFELY.
 
-Since Paijo and Paiman are normal creatures, they can only walk up, down, left and right only (not diagonal).
+Since Paijo and Paiman are normal people, they can only walk up, down, left and right only (not diagonal).
 As a programmer, you are required to provide solutions.
 
 Sharp (#) : Means a very thick, strong and high wall
